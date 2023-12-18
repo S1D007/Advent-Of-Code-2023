@@ -1,0 +1,14 @@
+{
+  "name": "AOC",
+  "version": "2.0.2.3",
+  "description": "YOBoi",
+  "main": "~",
+  "repository": "https://github.com/S1D007/Advent-Of-Code-2023",
+  "author": "Siddhant",
+  "license": "LUND",
+  "private": true,
+  "workspaces": [
+    "AOC/*",
+    "config/*"
+  ]
+}
